@@ -17,7 +17,7 @@ To run this application locally:
 1. Clone the repository:
 
 git clone https://github.com/sunildasari12/week7-day2.git
-cd Week_7_Day_2_Backend_Integration_UI_Prompting
+cd week7-day2
 
 
 2. Navigate to the client directory and install frontend dependencies:
